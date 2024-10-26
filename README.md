@@ -12,6 +12,7 @@
 - **Total Expenses**: At the top of the screen, the app displays the total of all expenses combined, providing   a quick overview of your spending.
 - **Weekly Summary**: A separate screen shows only the expenses from the last week.
 - **Global State Management**: The app uses Global Context for managing the state of expenses across the app.
+- **Firebase Integration** (New!): Transitioned from local data storage to Firebase for secure data storage and synchronization.
 
 ## Installation
 
